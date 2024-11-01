@@ -1,0 +1,33 @@
+/* css for AzedUserRename */
+
+/* Thanks to Fam Fam Silk Icons : http://www.famfamfam.com/lab/icons/silk/ */
+
+
+h1{text-align: center;}
+
+.azedRow{display: block; clear:both;overflow:auto;}
+.azedFlex{display: flex;}
+
+.azedWrapper{padding: 15px;background: #fff;border-radius: 6px;border:1px solid #eee;position: relative;height: 100%;width:100%;box-sizing: border-box;}
+.mw800{max-width: 800px;}
+
+.fleft-2{float: left; width:50%;box-sizing: border-box;padding:10px;position: relative;}
+
+.azedWrapper .formElt{width:100%;line-height: 30px;padding:8px;border-radius:4px;height: auto;}
+
+
+.throwMessage{line-height: 20px;padding:8px;border:1px solid #fff;background: #fff;border-radius:5px;font-size: 1.2em;font-weight: bold;}
+
+.azedWrapper .error{color: #b00;border-color:#b00;}
+.azedWrapper .warning{color: #FF9000;border-color:#FF9000;}
+.azedWrapper .success{color: #28C028;border-color:#28C028;}
+
+#userListSelector{ padding-left: 30px;background: transparent url(user_go.png) no-repeat 7px center;}
+#newUserLoginValue{ padding-left: 30px;background: transparent url(user_edit.png) no-repeat 7px center;}
+#newUserNicenameValue{ padding-left: 30px;background: transparent url(link_edit.png) no-repeat 7px center;}
+#newUserDisplayNameValue{ padding-left: 30px;background: transparent url(tag_blue_edit.png) no-repeat 7px center;}
+
+@media screen and (max-width: 991px){
+  .azedFlex{display: block;}
+  .fleft-2{width: 100%;}
+}

@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: azeduserrename\n"
+"POT-Creation-Date: 2016-07-20 10:57+0200\n"
+"PO-Revision-Date: 2016-07-20 10:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: azeduserrename.php\n"
+
+#: azeduserrename.php:32
+msgid "User can edit settings and all users datas"
+msgstr "User can edit settings and all users datas"
+
+#: azeduserrename.php:32
+msgid "User can only edit his datas"
+msgstr "User can only edit his datas"
+
+#: azeduserrename.php:32
+msgid "User can't access this plugin"
+msgstr "User can't access this plugin"
+
+#: azeduserrename.php:58
+msgid "Change user slug"
+msgstr "Change user slug"
+
+#: azeduserrename.php:75 azeduserrename.php:222
+msgid "User Rename by Azed"
+msgstr "User Rename by Azed"
+
+#: azeduserrename.php:81
+msgid "Edit settings :"
+msgstr "Edit settings :"
+
+#: azeduserrename.php:94 azeduserrename.php:154
+msgid "Changes are done and already effectives."
+msgstr "Changes are done and already effectives."
+
+#: azeduserrename.php:115
+msgid "Update Settings"
+msgstr "Update Settings"
+
+#: azeduserrename.php:122
+msgid "Change User datas :"
+msgstr "Change User datas :"
+
+#: azeduserrename.php:138
+msgid "This LOGIN is already used by someone else"
+msgstr "This LOGIN is already used by someone else"
+
+#: azeduserrename.php:143
+msgid "This NICENAME is already used by someone else"
+msgstr "This NICENAME is already used by someone else"
+
+#: azeduserrename.php:148
+msgid "This DISPLAY NAME is already used by someone else"
+msgstr "This DISPLAY NAME is already used by someone else"
+
+#: azeduserrename.php:162
+msgid "You have to specify a LOGIN"
+msgstr "You have to specify a LOGIN"
+
+#: azeduserrename.php:171
+msgid "Choose from the list"
+msgstr "Choose from the list"
+
+#: azeduserrename.php:200
+msgid "Change user Login (if you change your login, you will be disconnected)"
+msgstr "Change user Login (if you change your login, you will be disconnected)"
+
+#: azeduserrename.php:204
+msgid "Change user Nicename (empty to auto generate)"
+msgstr "Change user Nicename (empty to auto generate)"
+
+#: azeduserrename.php:208
+msgid "Change user Display Name (empty to auto generate)"
+msgstr "Change user Display Name (empty to auto generate)"
+
+#: azeduserrename.php:213
+msgid "Update User"
+msgstr "Update User"
+
+#: azeduserrename.php:223
+msgid "You don't have access to this plugin"
+msgstr "You don't have access to this plugin"
